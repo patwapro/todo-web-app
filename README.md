@@ -13,6 +13,7 @@ Just clone or download the todo-web-app
 ### development
 run 
 ```
+git clone https://github.com/patwapro/todo-web-app.git
 cd todo-web-app
 npm install
 ```
