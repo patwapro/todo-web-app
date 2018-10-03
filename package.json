@@ -12,6 +12,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "latest"
   },
+  "homepage": "https://patwapro.github.io/todo-web-app", 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
